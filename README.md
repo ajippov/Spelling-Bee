@@ -1,2 +1,2 @@
 # Spelling-Bee
-Spelling Bee Solver with Points
+This code seeks to find solutions to the popular NYT game "Spelling Bee," in which the player is meant to form words from 7 letters, one of which must always be used. The goal of the game is to reach a certain number of points give the complexity of the words found. As such, in addition to finding the solution set of words, the program also finds the point values of each word found. All the user needs to do is input the 7 letters (including the one compulsory letter), and the solution set will be printed out for them.
